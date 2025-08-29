@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection
-# Credit Card Fraud Detection
 
 This project applies **Machine Learning** techniques to detect fraudulent credit card transactions.  
 
